@@ -1,0 +1,7 @@
+{
+  "name": "signonML",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
